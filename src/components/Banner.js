@@ -1,6 +1,6 @@
 import React from "react";
 // images
-import Image from "../assets/avatar.svg";
+import Image from "../assets/Me.png";
 //Icons
 import { FaGithub, FaInstagram, FaWhatsapp } from "react-icons/fa";
 //type animation
